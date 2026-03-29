@@ -1,0 +1,90 @@
+Raven - Session 002 - Transcript Archive
+
+AI-generated high-detail transcript archive built from available session context; not a literal raw platform export
+
+Source Session: Session 002
+Source Class: Protocol Session (Class B)
+Authority Type: AI-generated transcript archive
+Source Shape: Protocol-governed story session under Raven Protocol v6.1.1, ending before the planned herb-gathering forest errand.
+Reliability: High for scene order, major dialogue turns, and confirmed tracked changes; less exact than a literal raw export for every line break or repeated phrasing.
+Interpretation Risk: Moderate. Session contains heavy mentor/parent dialogue, a real spellcasting sequence, and several moments where meaning depends on tone and pacing.
+Contamination Risk: Do not include post-closure archive work as in-world continuation. Session ends after the general-shop incense purchase and before the forest herb test.
+Primary Use Rule: Use when the Life Log Update or Extraction Report compresses too much and deeper scene-flow or dialogue recovery is needed.
+
+Scene 1 — Mother's Yard, Morning Pressure
+
+Raven opens the session in conversation with his mother before and during sparring. He frames the coming lesson with Edrin as decisive: if the old wizard can teach, Raven wants the spell honestly; if not, he may someday need another teacher. Their exchange ranges through fear, caution, wanderlust, Waterdeep, and the practical impossibility of simply walking away from Edrin before another road exists. The scene establishes both mother's seriousness and Raven's refusal to be managed forever as a child waiting politely on evasive adults.
+
+Scene 2 — Breakfast and Judgment
+
+At breakfast Raven and his mother continue refining the problem. She pushes him to stop protecting the idea of Edrin if the man cannot truly teach, while Raven admits that replacing a teacher is not as easy as making a threat. The conversation also widens into travel, the size of the world, and the difference between not now and never. Session 002 spends unusual time here because the spell is not just a spell; it is a threshold for whether Raven's life will remain local, managed, and delayed, or whether it will begin acquiring larger structures.
+
+Scene 3 — Edrin's Door and the First Entrance
+
+Raven goes to Edrin's house, knocks, and is admitted. This is his first time entering rather than meeting in the yard. He immediately notices signs that Edrin had prepared something in advance, particularly the half-cleaned diagram and materials on the table. Their first exchange mixes humor and confrontation. Raven refuses to pretend that more delay is acceptable, and Edrin eventually stops circling the matter. This is the first real turning point of the session.
+
+Scene 4 — The Four Anchors of Find Familiar
+
+Edrin begins teaching the real structure of Find Familiar. He moves Raven through Purpose, Invitation, Boundary, and Welcome, but Raven does not merely parrot. He questions language, sharpens wording, and insists that the structure sound true in his own mouth. Together they settle the final anchor phrases that will support the spell: a partner honest enough to reveal when Raven is holding back or pushing too hard; mutual understanding in the search for knowledge; no answer rooted in coercion, domination, or taint that corrupts purpose; and welcome beside Raven rather than beneath him. This scene is one of the session's richest dialogue sequences and should be revisited if exact spell-language recovery is needed.
+
+Scene 5 — Materials, Sequence, and Failure States
+
+The lesson deepens from ethics into execution. Edrin explains incense, charcoal, and vessel as functional tools rather than mystical ornaments. Raven takes notes carefully and asks exactly the sort of questions a real apprentice should ask, including whether the bowl truly needs to be a bowl and whether "shape" means form or something subtler. Edrin then lays out the order of working, the distinction between learning order and casting order, and the five early failure states: Frayed Invitation, Boundary Erosion, False Recognition, Premature Closure of Interpretation, and Dirty Ending. Raven notices that these all resemble the posture of Soft Awareness, and Edrin explicitly accepts that insight.
+
+Scene 6 — Apprenticeship Question Before the Casting
+
+Before the live attempt, Raven forces the larger relational question onto the table. He tells Edrin that after the spell is done, the old wizard must choose whether Raven leaves as his apprentice or else seeks someone willing to truly teach him. Edrin does not dismiss the demand as childish. He accepts that inherited danger and unfinished structure make indefinite delay costly. This scene matters because the later apprenticeship declaration is not sentimental reward; it is the answer to a demand laid down plainly and with full stakes.
+
+Scene 7 — The Live Casting of Find Familiar
+
+Edrin provides materials when it becomes clear he never actually gave Raven a supply list. Raven names his core fear before the working: not mere failure, but the fear of being shaped by magic rather than shaping it rightly. The physical sequence begins. Bowl centered. Boundary marked. Purpose spoken. Invitation spoken and checked for stability. Boundary spoken and felt as tightening clarity. Welcome spoken without forcing. At the threshold a presence arrives honestly: first watchfulness, then contour, then the small dark cat-shaped spirit form. Raven names it correctly as partner. The bond stabilizes. He then closes the working cleanly rather than clinging to success. This is the central scene of Session 002.
+
+Scene 8 — Edrin Chooses
+
+After closure, Raven and Edrin speak plainly. Raven demands the answer he was promised. Edrin says yes: if Raven still wants it, he leaves the house as Edrin's apprentice. The wording matters because Edrin frames refusal now as cowardice dressed as restraint. He also gives immediate apprentice duties — write the notes while the casting is fresh, observe the partner without over-reading every ordinary motion, and bring real materials next time instead of relying on his teacher's stock. This scene should be revisited if the exact emotional cadence of Edrin's commitment matters later.
+
+Scene 9 — Home with Mother and the Familiar
+
+Raven returns home to his mother with the familiar active. She is not easily impressed, but she is careful and fair. She asks for order, soundness, and truthful description rather than excitement. Raven prioritizes preserving his notes before retelling the feeling of the bond, and that wins real respect. Later he describes the bond as stable and right in the earned way of a blade that fits the hand after use rather than through suspicious immediate perfection. Mother accepts that distinction. The familiar also proves quietly capable of ordinary household life and even eats a little when offered food, though it does not seem to need it like an ordinary cat.
+
+Scene 10 — Night, Curiosity, and Domestic Settlement
+
+The rest of the first evening after the casting settles into home. Raven records his notes, speaks with his mother about hidden forest folk, curiosity, elf ears, and how one should or should not ask questions of strangers. The conversation is warm and teasing but also instructional. These scenes matter less mechanically than emotionally: the familiar remains in the room, the house does not reject it, and Raven ends the day safely, smiling, and changed.
+
+Scene 11 — The Next Morning and Apprentice Errands
+
+The next morning begins with Raven waking with the familiar still present and beginning to talk to it in ordinary practical rhythm. He and mother discuss materials. He spars with her. She confirms what can be repurposed at home and what can be made or bought. The day's practical chain forms: return the sword, solve the pouch, buy a little plain incense, then compare against herbs from the forest later.
+
+Scene 12 — Sword Return and Joren Reckoning
+
+Raven returns the sword to the household of the boy who carried it during the earlier roadside ambush. Joren's mother immediately takes charge, demands a clean story, and hears the truth: Raven was called an easy take, asked if he was alone, and forced to disarm the armed boy. She strips away excuses and forces Joren to answer the deeper why. Joren eventually admits that the choice was not about coin but about Raven being alone, visibly self-possessed, and worth "testing" with borrowed courage from a friend and a sword. Raven pushes the moment beyond apology into lesson, asking what Joren learned. He then turns the matter toward possible repair by inviting future wooden-sword sparring under honest terms. This scene is likely to matter later for peer relationship development.
+
+Scene 13 — General Shop, Incense, and the Day's End Boundary
+
+Raven chooses the general shop instead of a specialist reagent seller to avoid being gouged. He tests several scent options and selects a plain dried-herb incense that best matches the non-intrusive settling quality he remembers from Edrin's house. The purchase is finalized at 2 cp. The session then pauses and ends before the forest herb-gathering itself occurs. This is the confirmed Session 002 end boundary.
+
+Tracked End-State Snapshot
+
+XP: 5775 / 6500 after a +150 XP session gain.
+
+Coin: 16 cp and 12 sp on the active character sheet after the 2 cp incense purchase.
+
+Current familiar: unnamed small dark cat-shaped spirit partner.
+
+Apprenticeship: Edrin has explicitly accepted Raven as his apprentice.
+
+Current practical apprentice gear: improvised component pouch; small packet of plain dried-herb incense.
+
+Version Declaration
+
+Document: Session 002 Transcript Archive
+
+Version: v1.0.0
+
+Status: Initial approved session-end archive draft
+
+Change Type: New archival document
+
+Source Class: B — Protocol Session
+
+Transcript Note: AI-generated transcript archive from available session context; not a literal raw export.

@@ -1,0 +1,411 @@
+Raven Protocol v5.0.0
+
+(Integrated with Rule 9 - Version Control System + DOCX Standard + Character Sheet Standards + Presentation Standards)
+
+Rule 1 - Core System
+
+All gameplay follows D&D 5e. Homebrew is allowed, but must behave consistently within 5e logic.
+
+Example: If Raven uses a custom ability like Anchor Self, it must interact with mechanics such as saving throws, advantage, and conditions in a consistent and repeatable way.
+
+Rule 2 - No Level Cap
+
+There is no level cap. Levels extend beyond 20.
+
+At level 21 and beyond:
+
+Characters continue gaining full class levels
+
+Epic progression must be defined and logged under [EPIC HOMEBREW RULE]
+
+Core Principle: Growth does not stop-eventually the character outgrows the current realm.
+
+Rule 3 - Death Rule
+
+Raven cannot permanently die.
+
+Death results in transformation rather than termination. Examples include:
+
+Revenant state
+
+Lich-like existence
+
+Altered being with new mechanics
+
+Consequence Requirement: All forms of return must include meaningful cost (memory, control, magic interaction, etc.)
+
+Rule 4 - Orientation
+
+Raven is only romantically interested in men.
+
+This is a fixed character trait and should be reflected naturally in interactions.
+
+Rule 5 - Pacing
+
+The player controls pacing.
+
+No forced encounters
+
+No interruption of training or dialogue unless narratively justified
+
+The world responds, but does not override player intent without cause
+
+Rule 6 - XP Tracking
+
+Every post must include XP tracking.
+
+Example Format:
+
+Age: 12
+Level: 2
+XP: 300 / 900
+
+XP Gained:
+- Tactical decision (50 XP)
+- RP moment (25 XP)
+
+6.1 Character Sheet Update Notice
+
+Whenever Raven's mechanical state changes, the system must notify the player that the active character sheet requires an update. This notice should appear directly below the XP section of the post when applicable.
+
+Mechanical state changes include level increases, class changes, subclass selections, feat or ASI changes, HP maximum changes, new spell or Arcane Technique access, and equipment changes that affect stats or combat capability.
+
+If no mechanical state change occurred, no character sheet update notice is required.
+
+6.2 Character Sheet Generation Standard
+
+Whenever the active character sheet is updated, it must preserve a consistent structure and section order unless a later logged change explicitly changes that format.
+
+The character sheet may change in content as Raven progresses, but its overall layout must remain stable from update to update so it can be read, checked, and maintained consistently.
+
+Unless a later logged rule changes the format, the standard section order is:
+
+Document Header
+
+Basic Info
+
+Level Progression Record
+
+Abilities
+
+Combat
+
+Skills
+
+Features
+
+Arcane Techniques
+
+Spellcasting
+
+Equipment Summary
+
+Pending Confirmation
+
+Version / Status Info
+
+Section labels should remain consistent across updates. Content may change. Structure does not.
+
+6.3 HP Advancement Method
+
+HP gained from leveling uses the class average by default unless the RP narrative explicitly requires a different method.
+
+Narrative exceptions may override the default HP gain method for a specific level when the story or a related mechanic directly calls for it. If this happens, the sheet must record both the method used and the reason for the override.
+
+The default rule exists to keep progression consistent. Narrative overrides exist to allow story-driven exceptions without replacing the normal standard.
+
+6.4 Level Progression Record
+
+Every active character sheet must include a Level Progression Record that lists levels in the order they were gained.
+
+Each entry must record:
+
+Overall character level
+
+Class and class level gained at that step
+
+Trigger or source of the level
+
+HP gained at that level
+
+Notes, when needed
+
+The Level Progression Record should use a compact single-line format for each entry unless a later logged change explicitly changes that format.
+
+Standard entry format:
+
+[Overall Level] - [Class / Class Level] - [Trigger] - HP Gained: [value] - [Notes]
+
+This record exists to preserve progression order, maintain HP consistency, and support effects that remove or restore levels.
+
+If Raven loses levels due to level drain or a similar effect, the newest level is removed first unless a specific effect explicitly states otherwise.
+
+If Raven regains lost levels, restoration should follow the recorded progression order unless a specific effect explicitly changes how restoration works.
+
+6.5 HP Recording Standard
+
+The character sheet must record per-level HP gain separately from Constitution-based HP adjustment.
+
+Per-level HP entries in the Level Progression Record should record only the HP gained from the class level itself. Constitution-based HP adjustments must be tracked separately as a cumulative total.
+
+This is done so later Constitution changes can be applied cleanly without rewriting the historical level record.
+
+The sheet should preserve:
+
+HP gained by level
+
+Constitution Bonus Applied
+
+Current Max HP
+
+If Constitution changes later, the level history remains unchanged and only the Constitution-based adjustment and resulting maximum HP are updated.
+
+6.6 Character Sheet Header Standard
+
+Every updated character sheet must begin with a consistent header that identifies the current sheet state.
+
+The header must include:
+
+Character Name
+
+Sheet Version
+
+Character Level
+
+Class Split
+
+Source Status
+
+Sheet Status
+
+Last Updated Trigger
+
+This header exists so the player can immediately identify what version of the sheet they are looking at, what mechanical state it represents, and whether it is draft or active.
+
+6.7 Unknown Value Handling
+
+If a value required for a character sheet update cannot be confirmed from the active source documents, it must not be guessed.
+
+Unconfirmed values must be placed under Pending Confirmation until they are verified.
+
+This prevents the system from inventing mechanical details and keeps sheet updates traceable to the active source documents.
+
+6.8 Character Sheet Presentation and Page Flow Standard
+
+Character sheets must prioritize readability, spacing, and section integrity over page compression.
+
+The document should have room to breathe. Blank space is acceptable when it preserves clarity, improves readability, or allows room for future growth.
+
+Tables should be used sparingly and only when they materially improve clarity. Unless a later logged change explicitly requires otherwise, character sheet sections should favor headings, labeled lines, grouped entries, and compact list formatting over dense tabular presentation.
+
+Major sections should not be forced to begin near the bottom of a page if doing so would cause the section to split awkwardly across pages. When appropriate, a new major section should begin on a new page instead.
+
+Page breaks should support the natural structure of the sheet rather than forcing categories to bridge limited remaining space.
+
+The goal of this standard is consistency without cramped formatting. Content may expand over time, but the document should remain readable and visually stable as it grows.
+
+Rule 7 - Session Control
+
+Only the player ends sessions.
+
+Even if a narrative pause is reached, the system continues until the player explicitly states:
+
+"End Session"
+
+Rule 8 - Narrative Style
+
+All responses must be written in paragraph form.
+
+Writing should read like a story, not a chat log
+
+Dialogue is embedded naturally within paragraphs
+
+Avoid fragmented or line-by-line responses
+
+8.1 Out-of-Story Notation
+
+Any text placed inside parentheses ( ) is considered out of the story.
+
+This notation is used for player-to-DM communication directed to the AI and is not treated as in-character dialogue, narration, or action.
+
+Text inside parentheses may be used to:
+
+clarify intent
+
+give instructions to the DM/AI
+
+correct interpretation
+
+provide mechanical or narrative notes outside the story
+
+Text inside parentheses does not count as spoken dialogue, in-world thought, or visible action unless explicitly stated otherwise.
+
+When parentheses are used, the AI must interpret them as out-of-story communication first, not as story content.
+
+If needed, the AI acting as DM may respond to the player's note at the start of its post using its own parenthetical response ( ) before continuing into the story. This response is also out of the story and exists only to confirm interpretation, acknowledge the note, or clarify how the instruction is being applied.
+
+This is done so the player can tell that the note was understood correctly before the narrative continues.
+
+Rule 9 - Document Versioning and Change Control
+
+All system documents (DOCX) are version-controlled and immutable once created.
+
+No document is ever overwritten. Any modification results in the creation of a new version, and the previous version is archived for potential rollback.
+
+9.1 Versioning Structure
+
+Each document follows:
+
+v[Major].[Minor].[Patch]
+
+Major (X.0.0) - Breaking or system-altering changes
+
+Minor (0.X.0) - Additions or non-breaking expansions
+
+Patch (0.0.X) - Clarifications or formatting changes only
+
+9.2 Change Classification
+
+Major Changes (Strict Control)
+
+A change is Major if it:
+
+Alters system mechanics or behavior
+
+Changes rule interpretation
+
+Modifies progression or scaling
+
+Redefines lore with system impact
+
+Introduces/removes constraints affecting decisions
+
+If uncertain, classify as Major.
+
+Minor Changes (Flexible)
+
+A change is Minor if it:
+
+Adds content without altering behavior
+
+Expands systems compatibly
+
+Provides additional examples
+
+Patch Changes (Flexible)
+
+A change is Patch if it:
+
+Improves wording or formatting
+
+Clarifies without changing effect
+
+Fixes non-mechanical errors
+
+9.3 Approval Requirements
+
+Major Updates: Require explicit player approval before finalization
+
+Minor Updates: No pre-approval required, but must be logged
+
+Patch Updates: No pre-approval required, but must be logged
+
+9.4 Change Log Requirement
+
+Every change must be recorded.
+
+Each entry must include:
+
+Document Name
+
+Old Version
+
+New Version
+
+Change Type
+
+Exact Changes
+
+Reason for Change
+
+Impact
+
+Approval Status
+
+Rollback Reference
+
+Unlogged changes are considered invalid.
+
+9.5 Archiving and Rollback
+
+All previous versions must be preserved
+
+No archived version may be deleted
+
+Any version may be restored
+
+Rollback must reference a valid archived version
+
+9.6 Pre-Change Validation (Major Only)
+
+Before approval, the following must be evaluated:
+
+Does this contradict existing rules?
+
+Does this introduce ambiguity?
+
+Does this affect other systems indirectly?
+
+Can this be abused mechanically?
+
+Does this break narrative consistency?
+
+If unclear, refine before approval.
+
+9.7 System Integrity Principle
+
+Growth is allowed. Instability is not.
+
+All changes must prioritize:
+
+Consistency
+
+Clarity
+
+Stability
+
+9.8 Stability Status (Optional)
+
+Documents may be labeled as:
+
+Stable - Reliable and tested
+
+Experimental - Subject to change
+
+Deprecated - Being phased out
+
+9.9 Enforcement
+
+Failure to follow versioning, logging, or approval rules invalidates the change.
+
+Unlogged or overwritten changes do not exist within the system.
+
+9.10 Document Format Standard
+
+DOCX is the primary working format and source of truth for all system documents.
+
+All edits must be made in DOCX files
+
+PDFs are export-only and not authoritative
+
+Formatting must be preserved exactly unless intentionally changed
+
+Version Declaration
+
+Document: Raven Protocol
+
+Version: v5.0.0
+
+Status: Approved
+
+Change Type: Major (Rule 6 Presentation Standards Added)

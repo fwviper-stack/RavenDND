@@ -1,0 +1,104 @@
+Raven - Session 003 - Extraction Report - v1.0.0
+Structured continuity report for Session 003 end-state review
+
+Source Session: Session 003
+Source Class: Protocol Session (Class B)
+Authority Type: Session-end archival document
+Source Shape: Protocol-governed story session under Raven Protocol v6.3.1, ending on a counted long rest after rescue, divine ring activation, healer intervention, and level-up application.
+Reliability: High for events, dialogue direction, and tracked end-state values confirmed in footers.
+Interpretation Risk: Moderate to High. Session includes prolonged poisoned-state dialogue, divine-item reasoning, OOC XP correction, and identity-level family discussion.
+Contamination Risk: The in-session OOC pause used to correct XP cadence is not in-world continuity, but it is relevant to archive procedure and should be remembered as a protocol-use issue.
+Primary Use Rule: Use to resume Session 003 continuity, update rolling records, and identify which scene-level truths are now mechanically or narratively binding.
+
+1. Session Identification
+Session Identifier: Session 003
+Campaign Order Position: third protocol-era campaign session after Session 001 and Session 002 archive sets
+Source Class: B - Protocol Session
+Protocol Basis at End: Raven Protocol v6.3.1
+Historical Shape: direct continuation from Session 002's incense purchase into deeper-wood overreach, rescue, curse activation, poison treatment, and long-rest level-up
+
+2. Start State
+Raven begins Session 003 at age 12, Level 4, Fighter 2 / Wizard 2, with 5775 XP and active apprenticeship under Edrin. He has an unnamed small dark cat-shaped familiar, plain dried-herb incense, and no sword on him because Joren's blade was already returned. He enters the Neverwinter Wood under the stated purpose of gathering scent materials but with a private motive of glimpsing elves or signs of them.
+
+3. End State
+Age 12; Level 5; Fighter 2 / Wizard 3; XP 6775 / 14000.
+Long rest counted and applied.
+Character sheet change: level-up to Wizard 3; proficiency bonus now +3; max HP now 33 by existing sheet method; ring still worn.
+Narrative end-state: Raven is alive, asleep, and under guard after healer-assisted poison cleansing. The poison is fading rather than winning. Rib injury remains likely cracked. The Ring of Unfinished Grace remains on Raven's hand and active. Lena, Raven, Eldrin, and the healer now openly understand the ring as a judged holding-state rather than simple healing.
+
+4. Scene-by-Scene Event Chain
+4.1 Shop exit and wood entry: Raven leaves the general shop with plain incense and heads for the forest under an ordinary scavenging pattern.
+4.2 Deeper motive revealed: Raven's true private push is to see signs of elves. This motive matters to the divine logic later tied to the ring.
+4.3 Deeper wood reward phase: stronger resin scent, bark marks, and a more promising-than-dangerous atmosphere lure Raven farther than usual.
+4.4 Grove recognition phase: Raven notices arranged stillness, false convenience, and then the predatory grove reveals itself through layered root, thorn, briar, and deceptive footing.
+4.5 Initial survival phase: Raven partially evades the first snare, correctly identifies the grove as terrain acting like a predator, and survives by adaptation rather than trying to dominate it.
+4.6 Injury state: Raven suffers thorn punctures, bleeding, constriction trauma, likely cracked rib, and sap-poison weakness.
+4.7 Escape from the primary kill zone: Raven uses his arcane techniques to read pattern, reduce target profile, and slip out of the grove's first lethal bounds.
+4.8 Call for help: Raven sends the familiar to fetch Lena rather than dying to pride.
+4.9 Hidden resistance phase: Raven hides, stabilizes with Second Wind, uses Soft Awareness and Anchor Self, slows his pulse, and begins internally contesting the poison.
+4.10 Lena rescue phase: Lena finds Raven, assesses him, confirms ordinary extraction alone is too risky, and places the Ring of Unfinished Grace on his hand.
+4.11 Ring activation phase: immediate stabilization occurs; the ring first saves life, then settles into broader state-locking behavior.
+4.12 Extraction home: Lena carries Raven out; extensive mother-son dialogue establishes trust, cost, orientation truth, emotional survival, and early ring theory.
+4.13 Home treatment: contaminated clothing removed, wounds cleaned, poison treated as still active, and familiar sent to fetch Eldrin.
+4.14 Eldrin assessment: Eldrin confirms the ring is divine and not simple healing. He identifies it as broad stabilization rather than cure.
+4.15 OOC protocol correction: XP cadence issue identified; micro-award rule reasserted so earned progress is not lost if session ends abruptly.
+4.16 Continued home dialogue: Lena discloses the ring's history, Raven articulates inheritance through father and mother, and both openly vow to undo the curse.
+4.17 Healer arrival: Eldrin returns with a carefully chosen cleric healer rather than a random holy intervention.
+4.18 Clerical cleansing: the healer works around the ring's logic, pushing out poison without directly challenging the ring's imposed state.
+4.19 Sleep threshold: poison begins fading, ring remains watchful but non-resistant, and sleep becomes restorative enough to count toward long rest.
+4.20 End-state lock: session is counted as long rest and level-up is applied to Wizard 3.
+
+5. Major Revelations and Continuity Weight
+- The ring is not simply a healing item. It behaves as a divine judgment holding Raven in a state and responding especially when decline resumes.
+- Raven can perceive the ring's function with unusually high clarity and can distinguish between life-saving intervention and state-locking continuation.
+- Lena possessed the ring because another child once wore it and adults around that earlier crisis failed badly enough that she chose to hide the object herself.
+- Another child survived wearing the ring and the ring eventually came off, though not by simple mortal action.
+- Raven's instinctive arcane techniques repeatedly proved live survival value and may represent inherited magical patterning through his father.
+- Raven openly recognizes he is not yet ready for large-scale offensive magic such as Fireball because he does not trust his current judgment with that much destructive force.
+- Raven and Lena now explicitly frame the curse as a problem they will fight together, not a private burden she has placed on him.
+
+6. Emotional / Psychological Developments
+- Overreach becomes lesson, not self-annihilation. Raven now has a lived example of curiosity outrunning readiness and of surviving because he accepted help in time.
+- Lena's love is made explicit through action and speech. She is sorry for the price, not for paying it.
+- Raven answers the ring with understanding rather than blame and tells Lena he loves her for making the choice that saved him.
+- Family inheritance is clarified as influence without ownership. Raven can feel his father in magic and Lena in the sword without being reduced to either legacy.
+- Raven's magical identity deepens: he increasingly treats his cantrip-like techniques as coherent, nameable, and worthy of study rather than accidental instinct only.
+
+7. NPC Interaction and Relationship Changes
+Mother: trust and intimacy deepen sharply; she is now openly part of the anti-curse vow and no longer merely the practical boundary force around Raven's life.
+Eldrin: still useful, still foolish, now more openly accountable; delayed healer escalation cost him standing, but returning with the right cleric preserved it.
+Healer: new competent divine contact; proved capable of working around the ring's logic and may be important for future curse and poison handling.
+Familiar: successfully served twice as emergency messenger and remained a stable partner-presence through injury and healing.
+Joren: not active in-scene, but Session 003 retroactively confirms that returning his sword may have saved Raven's life by denying him false confidence in the grove.
+
+8. Mechanical / Material Changes
+XP change: +1000 XP total for Session 003, reaching 6775 / 14000 after long-rest level-up threshold update.
+Level change: +1 Wizard level on long rest; new class split Fighter 2 / Wizard 3.
+HP change: +4 Wizard average HP added; Constitution total increases by +1 with the new level; max HP now 33.
+Spellcasting change: Wizard spell slots now 4 first-level and 2 second-level. No new learned wizard spells mechanically confirmed in-session.
+Persistent condition change: ring still worn; rib injury likely cracked; grove punctures healing; poison fading but should remain part of recovery continuity until cleared by later play.
+Inventory changes: good clothes ruined/removed; Ring of Unfinished Grace now active worn item; incense remains from Session 002 state.
+Currency changes: none during Session 003.
+
+9. Active Threads at Session End
+- Identify the ring's exact divine source, terms, and removal logic.
+- Determine whether aligned clergy matter for loosening the ring safely.
+- Recover from grove injuries, especially the rib.
+- Continue apprenticeship under Edrin from a new power/trust position rather than simple student eagerness.
+- Investigate the predatory grove and whether a druid, scholar, or other local authority should be informed or confronted.
+- Decide whether Raven wants Identify as a next-priority spell target.
+- Continue examining inherited magical patterning and whether Raven's instinctive techniques form a coherent internal school.
+- Revisit offensive magic later under the explicit rule that Raven does not yet trust his judgment with large destructive force.
+
+10. Contradictions / Ambiguities / Cautions
+- The exact god or divine source behind the ring is still not formally confirmed in-session, though suspicion exists.
+- The previous child wearer and the exact agent of removal remain only partially remembered by Lena.
+- The healer's name was not explicitly recorded in this session and should not be invented later without confirmation.
+- The poison is fading, but its exact full removal moment is not mechanically confirmed beyond the long-rest closure state.
+- The session included an OOC correction to XP cadence. This should influence future procedure but not be inserted as in-world memory.
+
+Version Declaration
+Document: Raven - Session 003 - Extraction Report
+Version: v1.0.0
+Status: Approved Session 003 closure file
+Change Type: Initial session file
