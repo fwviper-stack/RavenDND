@@ -1,0 +1,38 @@
+Raven Thorne - Quest Log - v1.2.0
+Session 003 end routing update
+Derived from active quest routing, Session 003 archive state, and the updated character sheet
+
+Completed Quests
+Find Familiar: Learned and cast cleanly; familiar bond established as partnership.
+Threshold Lesson with Edrin: Forced the old wizard past indefinite caution and into real instruction.
+Return the Borrowed Sword: Returned Joren's sword cleanly, closed the matter honestly, and turned the reckoning into lesson instead of trophy-taking.
+Survive the Deep-Wood Grove: Escaped the predatory grove, called for help in time, and lived through the first full crisis of overreach into the deeper wood.
+
+Active Quests
+Apprenticeship Under Edrin: Continue real structured wizard instruction now from a higher-trust and higher-danger position.
+Ring of Unfinished Grace: Identify the ring's exact divine source, logic, judgment, and long-term release conditions.
+Undo the Child-Holding Curse: Find the path that lets Raven live and recover without remaining physically unfinished forever.
+Post-Grove Recovery: Heal the rib injury, finish clearing the grove poison, and recover enough to train honestly again.
+Predatory Grove Inquiry: Learn what warped the woodland mouth, whether a druid or other authority should be informed, and how dangerous that grove remains.
+Identify as Next Spell Pressure: Decide whether Raven should push Eldrin toward teaching Identify to reduce future hidden-object risk.
+Mapping the Thin Places: Continue identifying and tracking weak points in the forest, especially tears tied to real danger or past damage.
+Prepare for Return: Anticipate the entity's next move and strengthen boundary, awareness, and response.
+Inherited Sorcery Test: Determine whether Raven carries sorcerous traits linked to his father and learn control early if so.
+Spellbook Pressure: Build, bind, or buy the first true spellbook without letting scarcity stall magical growth.
+Scent Materials Trial: Revisit the incense-and-herb comparison honestly after recovery; the errand that opened Session 003 is not truly finished.
+Wooden-Sword Repair Route: If Joren trains honestly, test whether future sparring can turn a bad beginning into something better.
+
+Quest Notes
+Session 003 changes the weight of several active quests. The ring is no longer a hidden object in the background; it is now the central continuity problem. Apprenticeship remains active, but it is now tied to recovery, identification, and the discipline of surviving what Raven has already touched. The grove is not a one-scene obstacle; it is a standing environmental problem and a possible future site of investigation, revenge, or correction.
+Raven's stated future research interest in a poison-and-illness cure should be remembered as a serious long-term developmental direction, even if it is not yet a formal quest of its own.
+
+Sealed Knowledge (Unreadable)
+Wkh ulqj lv qrw phuhob d khdolqj remhfw. Lw krogv d mxgjhg vwdwh. Wkh sodfh wkdw wuxhg wr hdw KdYhq lv qrw d pdqlihvw ehdvw exw d zrrgodqg prxwk. Dqrwkhu fklog rqfh zruh wkh ulqj dqg lw glg frph rii odwhu, wkrxjk qrw eb ruglqdub pruwdo phdqv.
+
+Version Declaration
+Document: Raven Quest Log
+Version: v1.2.0
+Status: Approved update after Session 003
+Change Type: Minor
+Old Version: v1.1.0
+Reason: add grove survival completion, ring/curse quest line, recovery state, and Session 003 active routing

@@ -1,0 +1,182 @@
+Raven - Session 002 - Extraction Report
+
+Structured continuity report for Session 002 end-state review
+
+Source Session: Session 002
+Source Class: Protocol Session (Class B)
+Authority Type: Session-end archival document
+Source Shape: Protocol-governed story session under Raven Protocol v6.1.1, ending before the planned herb-gathering forest errand.
+Reliability: High for events, dialogue direction, and tracked end-state values confirmed in footers and the active character sheet.
+Interpretation Risk: Moderate. Session contains heavy mentor/parent dialogue, a real spellcasting sequence, and several moments where meaning depends on tone and pacing.
+Contamination Risk: Do not include post-closure archive work as in-world continuation. Session ends after the general-shop incense purchase and before the forest herb test.
+Primary Use Rule: Use to resume Session 002 continuity, update rolling records, and decide when transcript-level review is actually needed.
+
+1. Session Identification
+
+Session Identifier: Session 002
+
+Campaign Order Position: second protocol-era campaign session after the Session 000 legacy bridge material and Session 001 archive set.
+
+Source Class: B — Protocol Session.
+
+Protocol Basis at End: Raven Protocol v6.1.1.
+
+Historical Shape: direct continuation from Session 001 end-state into first successful Find Familiar casting, apprenticeship declaration, and next-morning practical follow-through.
+
+2. Start State
+
+Raven begins Session 002 at age 12, Level 4, Fighter 2 / Wizard 2, with 5625 XP and the Session 001 end-state pressure intact. Find Familiar is at the threshold of real instruction but not yet cast. Edrin is still a conditional mentor rather than a declared master. Mother respects Raven's seriousness but continues testing whether his arcane pursuit is being taught honestly. Raven has no familiar yet, no spellbook, and no fully settled answer about inherited sorcery.
+
+3. End State
+
+Age 12; Level 4; Fighter 2 / Wizard 2; XP 5775 / 6500; current coin 16 cp and 12 sp on the active character sheet; Find Familiar successfully learned and cast; familiar currently manifested as an unnamed small dark cat-shaped spirit partner; improvised component pouch and small packet of plain dried-herb incense in current equipment. Narrative end-state: Edrin has explicitly accepted Raven as his apprentice, mother has accepted the familiar bond as stable enough to live in the house, and Raven has begun the first practical apprentice errands rather than merely dreaming of them.
+
+4. Scene-by-Scene Event Chain
+
+4.1 Morning spar and breakfast with mother: Raven frames Edrin's delay as real teaching failure if it continues indefinitely; mother pushes him to distinguish dependence from helplessness and preparation from bluff.
+
+4.2 Waterdeep / wider-world conversation: Raven openly admits wanting a larger world and research future, while mother reframes travel and scholarship as things built through preparation, coin, and skill rather than fantasy.
+
+4.3 Arrival at Edrin's house: Raven enters the house for the first time, confirms Edrin expected the confrontation, and pushes him into plain speech about what lesson is owed.
+
+4.4 Find Familiar structure lesson: Edrin teaches the four-anchor model — Purpose, Invitation, Boundary, Welcome — plus materials, casting sequence, focus discipline, and failure states. Raven refines the language rather than merely repeating it.
+
+4.5 Live casting preparation: Raven names his fear of being shaped by magic rather than shaping it rightly; Edrin accepts the fear as legitimate and non-disqualifying.
+
+4.6 Successful casting: Raven completes the working, holds the threshold honestly, receives a small dark cat-shaped spirit answer, names the bond as partnership, and closes the spell cleanly.
+
+4.7 Apprenticeship decision: Raven forces Edrin to answer whether he will truly teach him; Edrin accepts Raven as his apprentice and assigns real follow-up duties rather than vague hope.
+
+4.8 Return home: mother evaluates the bond, the familiar, the notes, and Edrin's judgment. She accepts the bond as stable enough not to assume the answer is already no.
+
+4.9 Domestic consolidation: Raven records detailed casting notes, discusses hidden peoples, social curiosity, and ordinary household life with the familiar present, and tests that this familiar can eat a little even though it does not appear to need food normally.
+
+4.10 Next-morning spar and apprentice planning: Raven spars with mother, discusses materials, a pouch, incense, and the practical shape of his next lesson.
+
+4.11 Sword return and reckoning: Raven returns the borrowed sword to Joren's household; Joren and his mother are forced into truth, apology, and a clearer understanding of what the roadside ambush really meant.
+
+4.12 Possible peer repair: Raven invites Joren to someday come spar honestly with wooden swords if he actually trains and leaves steel behind.
+
+4.13 General shop purchase: Raven buys a small packet of plain dried-herb incense for 2 cp to use as a scent reference before later forest gathering.
+
+5. Major Revelations and Continuity Weight
+
+Edrin's true barrier to teaching Find Familiar was his own fear of becoming the man who actually taught it, not Raven's unreadiness.
+
+Raven's first familiar bond stabilizes around partnership, not ownership or service.
+
+Edrin explicitly accepts Raven as his apprentice before Raven leaves the house.
+
+Mother accepts the familiar as stable enough not to default to rejection and confirms that ordinary household life can now include the bond.
+
+Joren admits the earlier ambush was about Raven being alone, visibly self-possessed, and worth "testing," not about meaningful coin.
+
+Raven turns the sword return into a lesson rather than a humiliation, creating the first narrow possibility of a healthier peer relationship.
+
+6. Emotional / Psychological Developments
+
+Raven moves from demanding honest teaching to actually receiving it and proving he can carry it without losing discipline. This is a major internal threshold. He no longer only imagines himself as someone ready for a real spell; he now has proof.
+
+The familiar bond confirms a version of magic Raven has been reaching toward since Session 000: structured, mutual, and honest rather than coercive or self-deluding. This helps separate inherited fear from inherited destiny.
+
+Mother's acceptance does not become softness, but it becomes recognition. Raven now has more emotional room at home to treat arcane study as real life rather than private defiance.
+
+Raven also shows increasing capacity to convert conflict into lesson. The Joren encounter proves he can seek truth and consequence without needing humiliation as the end-state.
+
+7. NPC Interaction and Relationship Changes
+
+Mother: increased confidence in Raven's judgment around both the familiar bond and apprenticeship; remains watchful but no longer assumes arcane developments are suspect by default.
+
+Edrin: relationship changes from conditional mentor under active challenge to declared teacher/apprentice bond with explicit future obligations.
+
+Familiar: first stable ordinary-life bond established; current manifested form is a small dark cat-shaped spirit; remains unnamed.
+
+Joren: moved from failed ambusher to possible future sparring partner under strict terms (wood only, come to learn, no posturing).
+
+Joren's mother: now holds respect for Raven's restraint, honesty, and closure instinct; explicitly says the matter will be remembered.
+
+8. Mechanical / Material Changes
+
+XP change: +150 XP from the successful spellcasting threshold and related session achievements. End total: 5775 / 6500.
+
+Learned / cast spell: Find Familiar is no longer merely in study; it is successfully learned and cast.
+
+Familiar state: unnamed small dark cat-shaped spirit partner currently active.
+
+Inventory / coin: spent 2 cp on a small packet of plain dried-herb incense at the general shop.
+
+Inventory / gear: improvised component pouch established in current carried supplies.
+
+No persistent injuries or conditions confirmed at session end.
+
+9. Active Threads at Session End
+
+Return to Edrin as an actual apprentice with personal materials rather than wholly borrowed ones.
+
+Gather and test forest herbs against the bought incense reference to discover what truly steadies Raven's mind.
+
+Possible inherited sorcery remains unresolved and still requires testing.
+
+Thin-place / tear research remains active, especially the split-boulder tear and Edrin's old wound in it.
+
+Spellbook pressure remains active: Raven still lacks a true spellbook and is thinking materially about how to build or afford one.
+
+Naming the familiar remains unresolved.
+
+Potential future sparring contact with Joren now exists, but has not yet occurred.
+
+Waterdeep remains a possible future research destination rather than an immediate plan.
+
+10. Contradictions / Ambiguities / Cautions
+
+The currently uploaded character sheet already reflects the exact current end-state values for coin, incense, pouch, Find Familiar, and the familiar bond. This extraction report should not be used to override the sheet with older pre-update values.
+
+The familiar's sex or gender remains unknown in-session and should not be invented in later files.
+
+The bond is clearly stable and mutual, but the familiar's exact deeper nature beyond spirit familiar form remains interpretively open.
+
+No in-world date was established; use session identifier and sequence rather than invented calendar placement.
+
+Shopping price for the incense was finalized in-scene at 2 cp after earlier uncertainty; use the confirmed value only.
+
+11. Transcript Review Signals
+
+Review the transcript archive if exact wording matters for the four-anchor Find Familiar structure and the focus-discipline / failure-state teaching sequence.
+
+Review if the exact emotional cadence of the apprenticeship ultimatum and Edrin's answer matters.
+
+Review if the mother / familiar household scenes need more nuance than the summaries preserve.
+
+Review if the Joren reckoning needs exact dialogue for later peer-relationship development.
+
+12. Update Targets
+
+Life Log Update: yes — first familiar bond, apprenticeship, domestic acceptance, and Joren reconciliation all belong in the curated life record.
+
+Character Sheet: checked; no new update needed if Raven_Thorne_Character_Sheet_v4.2.6 remains the active current sheet, because it already reflects the exact current state.
+
+Quest Log: yes — Find Familiar should move from active instruction threshold to completed spell-learning, and new active apprentice-material / tear / sorcery / spellbook pressures should be routed cleanly.
+
+Timeline Index: yes — add Session 002 archive routing and update the current end-boundary row.
+
+Short Term Memory: yes — Raven's current arc changed materially through successful casting, apprenticeship, and practical apprentice follow-through.
+
+Long Term Memory: yes — the first true familiar partnership and declared apprenticeship are now enduring identity material.
+
+Legend: yes — add Session 002 archive set and retrieval guidance.
+
+13. Boundary Note
+
+This extraction report stops at the confirmed Session 002 end boundary and does not include the later archive-generation work that follows the player's End Session instruction.
+
+Version Declaration
+
+Document: Session 002 Extraction Report
+
+Version: v1.0.0
+
+Status: Initial approved session-end archive draft
+
+Change Type: New archival document
+
+Source Class: B — Protocol Session

@@ -1,0 +1,50 @@
+Raven - Session 003 - Life Log Update - v1.0.0
+Curated historical record for Session 003 under Raven Protocol v6.3.1
+
+Source Session: Session 003
+Source Class: Protocol Session (Class B)
+Authority Type: Session-end archival document
+Source Shape: Protocol-governed story session under Raven Protocol v6.3.1, beginning immediately after the Session 002 general-shop incense purchase and ending on the first long rest after emergency rescue, ring-binding, healer intervention, and level-up application.
+Reliability: High for events, dialogue direction, and tracked end-state values confirmed in footers and the active character sheet.
+Interpretation Risk: Moderate to High. Session contains prolonged injury-state dialogue, poisoning, divine-item assessment, and emotionally significant mother/mentor revelations where tone matters.
+Contamination Risk: Do not treat the OOC XP-tracking correction pause as in-world continuation.
+Primary Use Rule: Use to understand the lived shape of Session 003: overreach, grove survival, maternal intervention, curse activation, healer stabilization, and the first open vow to undo the ring.
+
+Session Opening Position
+Session 003 opens the moment Raven leaves the general shop with plain incense after Session 002. He is age 12, Level 4, Fighter 2 / Wizard 2, carrying 5775 XP and active apprentice pressure under Edrin. He has a live familiar bond, a practical excuse to enter the woods for scent-material testing, and a private motive he does not say aloud: he wants to glimpse an elf or signs of elves in the deeper wood. He has no sword on him because he previously returned Joren's blade.
+
+Deeper Wood and the Failure of the Ordinary Excuse
+Raven enters the forest under a real errand, but the session makes clear that the errand is not the full truth. He wants resin, herb, and incense-reference material; he also wants to see. The deeper wood first rewards that choice. Resin scent strengthens, bark marks appear, and the environment feels promising rather than hostile. This matters because the forest does not catch him through stupidity alone. It catches him through the very human combination of curiosity, competence-growth, and private longing.
+
+The Grove as Woodland Mouth
+Session 003's central danger is not a beast but a predatory snare-grove: root, thorn, hanging briar, false footing, and arranged clear ground acting together as a killing terrain. Raven identifies the key truth fast enough to matter: this is not one body to outfight but a place acting like a mouth. That recognition changes his survival behavior. He partially evades the first grab, slips the first fatal bind, and later escapes the grove's primary kill zone not through domination but through adaptation, pattern-reading, Unseen Posture, and Flow State. The grove still badly injures him. Thorn punctures, blood loss, rib trauma, and sap-poison all become real and lasting problems.
+
+Calling for Lena Instead of Dying to Pride
+One of Session 003's most important moral turns is not a flashy victory but a refusal of fatal independence. Once Raven reaches rough cover outside the grove's first bounds, he sends his familiar for Lena. This is a core success of the session. The system does not treat rescue as failure. Raven's willingness to call for help when he knows he is no longer enough is one of the reasons he lives.
+
+Internal Contest Before Rescue
+While hidden and waiting, Raven uses Second Wind, Soft Awareness, Anchor Self, and later his own inward magical pressure to resist the poison, stay awake, conceal himself from broader magical tracking, and understand what is happening inside him. Session 003 repeatedly shows that his arcane techniques are no longer abstract tags on a sheet. They are live survival tools. He also begins to articulate a major developing truth: some of these cantrip-like workings feel inherited through his father's magical line the way sword instinct feels inherited through Lena's training. The session does not collapse that into destiny. It instead confirms that inheritance matters, but Raven's use of it remains his own.
+
+Lena's Rescue and the Ring
+Lena reaches Raven in time because the familiar succeeds and because she knows enough to read the forest for what happened. She finds him badly hurt, poisoned, and no longer safe to trust to ordinary extraction alone. In the deepest emotional turn of the session, Lena chooses to put the Ring of Unfinished Grace on Raven's hand. She does not do this casually. She does it because the alternatives are worse. Session 003 later makes explicit that she would make this same choice a thousand times and is sorry for the price, not for paying it.
+
+What the Ring Actually Does
+The ring first saves Raven from immediate death-state decline. After that, its behavior changes. Through Raven's own reporting, then Eldrin's analysis, then the cleric's confirmation, the session establishes that the ring is not simply healing. It is holding Raven in a judged state. It does not initially feel like it merely stops death. It prevents the body from advancing normally through injury, poison, and recovery alike. It responds most clearly when decline resumes. It is divine in nature, attentive rather than sentient, and more like a law or trap than a person with emotions.
+
+Poison, Theory, and the Night of Too Much Thinking
+Much of the middle of Session 003 is structured as high-stakes injury dialogue. Raven, half-poisoned and exhausted, keeps producing observations, tactical theories, and identity-level truths while Lena, Eldrin, and later the healer try to sort practical meaning from them. He argues that delayed XP must not vanish between scenes. He challenges Eldrin's loose wording about healing. He identifies necromancy as the most likely arcane bridge toward wizard-made healing. He argues that wizards should learn how to move because scholars near rifts die if they cannot survive the first exchange. He distinguishes sword practice from real combat use of magic and explicitly says he is not yet ready for offensive magic on the scale of Fireball because he does not trust his judgment with that much force. These are not filler conversations. They are Session 003's proof that Raven's mind under pressure is becoming one of his most dangerous and valuable traits.
+
+Truths About Family and Inheritance
+Session 003 contains major family-history disclosure. Lena tells Raven how the ring came into her keeping: years after his father's death, through the failure of a false-merciful holy man, a previous child wearer, adult opportunism, and Lena's decision to hide a useful but hated object rather than let worse hands keep it. She also confirms that another child once wore the ring and that it did come off later, though not by simple mortal means. In turn, Raven tells Lena that magic sometimes makes him feel as if his father is still near, just as a sword can make him feel her strength. Lena confirms that love and training leave marks without reducing Raven to a script written by dead people.
+
+The Healer and the Turning of the Night
+After too much delay from Eldrin's over-careful judgment, a carefully chosen cleric arrives. She is competent, restrained, and immediately better at this room than half the theology around it. She recognizes Raven's key distinction: at first the ring preserved life, but now it preserves continuation. She works around the ring's logic rather than challenging it head-on. Her cleansing gradually drives the poison into retreat without making the ring tighten into open opposition. This is the first real turning point of the recovery. Sleep becomes safe enough to count as sleep rather than collapse.
+
+Session Closing Position
+Session 003 ends after a counted long rest. Raven survives the grove, survives the poison, gains Level 5 by applying the next level to Wizard, and ends the session at Fighter 2 / Wizard 3 with 6775 XP. The poison is fading rather than winning. The rib injury remains serious, likely cracked. The ring remains on his hand and active. The curse is not solved, but it is no longer hidden fear. It is now an open problem shared by Raven, Lena, Eldrin, and the healer. The session closes with Raven asleep under guard and with a new joint vow between mother and son that the ring's judgment will not be accepted as forever.
+
+Version Declaration
+Document: Raven - Session 003 - Life Log Update
+Version: v1.0.0
+Status: Approved Session 003 closure file
+Change Type: Initial session file

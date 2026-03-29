@@ -1,0 +1,136 @@
+Raven - Session 000 - Structured Extraction Bridge
+
+Legacy-session bridge report for continuity, querying, and safe future retrieval
+
+Source Integrity Header
+
+Source Session: Session 000
+Source Class: Legacy Session
+Authority Type: Structured extraction bridge
+Use Rule: Read explicit chat facts first, interpretation second.
+Historical Span: Age 4 opening scene, then later childhood present line
+Primary Warning: Do not backfill later Raven mechanics or subclass choices.
+
+1. Session Identification
+
+Session 000 is the earliest archive reconstruction. It predates Raven Protocol story-format enforcement and must be handled as a legacy session source.
+
+The source basis for this bridge report is the accepted Session 000 archive set, refined to preserve the age-4 opening as lived material.
+
+2. Historical Span Note
+
+Session 000 does not sit at one single age. It begins with a lived opening scene at age 4 during the death of Raven's father, then later follows Raven in later childhood, approximately around age 12.
+
+The age-4 material is part of played session history and must not be downgraded to mere remembered background.
+
+3. Start State
+
+At the opening, what is known is emotional and domestic rather than mechanical: Raven is a child, his father dies through magical catastrophe, and the household that remains is shaped by survival and loss.
+
+What is not yet formalized includes class identity, spell structure, finalized rules language, and later support-document certainty.
+
+Known: child protagonist, father dead through magic, mother as active trainer and protector, practical household, early fear and fascination around magic.
+
+Unknown or not yet established: formal class, formal subclass, stable mechanical frame, exact magical taxonomy.
+
+4. Chronological Event Chain
+
+The following chain should be read as archive order, not as modernized chapter prose.
+
+Age 4 lived scene: father dies in a magical catastrophe; this becomes Raven's first anchor event.
+
+Later childhood training: mother pushes Raven through survival-first combat lessons and practical discipline.
+
+Forest movement and independence: Raven moves beyond simple supervised childhood into exploratory action.
+
+Tear / thin-place awareness: Raven encounters a wound in reality and learns that observation can invite contact.
+
+Cautious arcane guidance: Edrin appears as a careful, boundary-focused mentor figure connected to these phenomena.
+
+Thin Place incident: Raven succeeds through internal steadiness, refusal, and control rather than brute force.
+
+First teaching moment: Raven helps another child stabilize, showing the first outward extension of what he has learned.
+
+5. Character Establishment
+
+Session 000 establishes Raven as adaptive, observant, restrained, questioning, and resistant to easy answers. He is not yet defined by later build language.
+
+He wants control, understanding, and a way to prevent loss. He refuses simple surrender to power and resists the idea that one path of growth must erase another.
+
+Relationship to danger: engaged but careful.
+
+Relationship to magic: curious, wary, and personally invested.
+
+Relationship to family: deeply shaped by mother and father in very different ways.
+
+6. Relationship Establishment
+
+Raven's mother is explicit and central. She is trainer, provider of harsh safety, and the person who turns survival into daily practice.
+
+Raven's father is absent in the present line but remains one of the most powerful forces in the archive because the loss is lived and unresolved.
+
+Edrin is established as a cautious mentor figure rather than a free source of easy answers.
+
+Mother - explicit: trainer, authority, pressure, survival teacher.
+
+Father - explicit: dead through magic; unresolved source of motive and fear.
+
+Edrin - explicit: cautious mentor; uncertain: full motives, limits, long-term role.
+
+7. Setting and Location Establishment
+
+The family home and daily economy matter because they keep the story grounded in labor, scarcity, and practical limits.
+
+The forest matters because it is both Raven's expanded yard and the threshold where reality begins to fray.
+
+Tear locations and thin places matter because they are the first major metaphysical sites tied to Raven's developing arc.
+
+8. Magic and Training Establishment
+
+Session 000 supports early magical awareness, experimentation through observation, and the lesson that internal control can matter more than overt force.
+
+It does not support later polished mechanics as settled facts. Formalized spell lists, subclass identity, and later terminology must remain outside this report unless they are explicitly marked as later continuity.
+
+Explicit: magic is dangerous, tears exist, observation can change the situation.
+
+Implied but not explicit: Raven is moving toward a discipline built around awareness and control.
+
+Not yet established in Session 000: later class split, later subclass lock-in, later codified arcane techniques.
+
+9. Anchor Events and Continuity Echo Readiness
+
+This report marks the father's death, tear encounters, the observation rule, and the Thin Place stabilization as anchor events.
+
+Future sessions may add continuity echoes that deepen these events. Those echoes should be linked to these anchors rather than replacing them.
+
+10. End State
+
+Raven ends Session 000 more controlled, more aware of boundary danger, and more committed to understanding what lies behind loss and tears.
+
+He does not end with later formal class certainty. The session ends with stronger practical identity and larger unanswered questions.
+
+11. What Should Carry Forward
+
+Must-carry narrative facts: father's death is lived history; mother trains for survival; tears and thin places are real; observation can invite interaction.
+
+Must-carry emotional facts: fear of uncontrolled magic; need for control; refusal to abandon either martial or arcane growth.
+
+Must-carry unresolved questions: what killed his father exactly; what tears are; what waits beyond the boundary; whether magic can be mastered safely.
+
+Must-carry mechanical caution: do not infer later mechanics from this session.
+
+12. Historical Risk Flags
+
+High risk of later class or subclass contamination.
+
+High risk of upgrading early chat-log material into polished story certainty.
+
+High risk of flattening age-4 lived material into mere remembered background.
+
+13. Transcript Review Signals
+
+Reopen the Session 000 transcript if precise emotional framing of the father's death matters.
+
+Reopen the Session 000 transcript if the exact lesson about observation and interaction matters.
+
+Reopen the Session 000 transcript if Edrin's caution, tone, or limits need exact wording.

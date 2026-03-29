@@ -1,0 +1,191 @@
+Raven Thorne - Character Sheet
+
+Finalized under Raven Protocol v5.0.0
+
+Document Header
+
+Character Name: Raven Thorne
+
+Sheet Version: v4.2.0
+
+Character Level: 4
+
+Class Split: Fighter 2 / Wizard 2 (Arcane Techniques)
+
+Source Status: Built from Raven Protocol v5.0.0 and current uploaded source files
+
+Sheet Status: Active
+
+Last Updated Trigger: Locked Arcane Tradition as Chronurgy and resolved final pending confirmations
+
+Basic Info
+
+Level: 4
+
+Class: Fighter 2 / Wizard 2 (Arcane Techniques)
+
+Race: Variant Human
+
+Background: Outlander
+
+Alignment: Neutral Good
+
+Arcane Tradition: School of Chronurgy
+
+Arcane Techniques Casting Ability: Wisdom
+
+Wizard Spellcasting Ability: Intelligence
+
+Proficiency Bonus: +2
+
+Level Progression Record
+
+1 - Fighter 1 - Character Start - HP Gained: 10 - First level; full class HP
+
+2 - Wizard 1 - Level Up - HP Gained: 4 - Average HP
+
+3 - Wizard 2 - Level Up - HP Gained: 4 - Average HP
+
+4 - Fighter 2 - Level Up - HP Gained: 6 - Average HP
+
+Abilities
+
+STR: 10 (+0)
+
+DEX: 16 (+3)
+
+CON: 12 (+1)
+
+INT: 14 (+2)
+
+WIS: 15 (+2)
+
+CHA: 8 (-1)
+
+Combat
+
+Max HP: 28
+
+HP Build: 10 + 4 + 4 + 6
+
+Constitution Bonus Applied: +4 total
+
+AC: 15
+
+Initiative: +3
+
+Speed: 30 ft
+
+Proficiency Bonus: +2
+
+Skills
+
+Perception: +4
+
+Survival: +4
+
+Stealth: +5
+
+Insight: +4
+
+Athletics: +2
+
+Nature: +4
+
+Features
+
+Alert (Feat): Always acts first; cannot be surprised.
+
+Second Wind: Bonus action heal.
+
+Action Surge: One extra action on your turn, 1/rest.
+
+Arcane Techniques: Early instinctive control cantrips that use Wisdom; this does not replace standard Intelligence-based wizard spellcasting. Raven's chosen wizard tradition is Chronurgy.
+
+Arcane Techniques
+
+Anchor Self: Bonus Action | Self | Concentration (1 min). Advantage on saves vs charm, fear, and possession. Cannot be magically tracked unless Raven engages. Creatures relying on awareness have disadvantage to notice him.
+
+Boundary Set: Action | Self (5 ft aura) | Concentration (1 min). +1 AC, advantage vs forced movement, and creatures must succeed on a Strength save to move Raven. Magical influence has disadvantage inside the aura.
+
+Guided Center: Action | Touch | 1 min. Target gains advantage on saves vs charm, fear, and possession, may immediately reroll one failed save, and gains +1 to all saves while willing.
+
+Soft Awareness: Action | 30 ft | Instant. Sense presence, emotional weight, and distortions without exact locations.
+
+Flow State: Bonus Action | Self | 1 round. +10 ft movement, advantage on Acrobatics, and opportunity attacks against Raven have disadvantage.
+
+Unseen Posture: Action | Self | Concentration (1 min). Disadvantage to notice Raven if he is not acting aggressively. Ends if Raven attacks or casts offensive magic.
+
+Spellcasting
+
+Wizard Level: 2
+
+Wizard Spellcasting Ability: Intelligence
+
+Spell Slots: 3 first-level slots
+
+Spellbook: None
+
+Learned / Castable Wizard Spells: Find Familiar
+
+Prepared Wizard Spells: Find Familiar
+
+Spellcasting Notes: Find Familiar is now successfully learned and cast. The familiar is currently manifested as a small dark cat-shaped spirit. Wizard spells do not automatically appear on level up and must be learned in play or during downtime.
+
+Casting Distinction: Arcane Techniques use Wisdom. Traditional wizard spells use Intelligence unless a separate rule changes that.
+
+Companion / Familiar
+
+Current Manifested Form: Small dark cat-shaped spirit.
+
+Bond Type: Familiar via Find Familiar.
+
+Naming Status: Unnamed.
+
+Bond Framing: Raven treats the familiar as a partner, not a pet or servant.
+
+Equipment Summary
+
+Travel Clothes: Durable and suited for forest movement. Carry: Worn.
+
+Cloak: Dark and aids concealment. Carry: Worn or wrapped.
+
+Boots: Soft-soled for stealth. Carry: Worn.
+
+Small Pack: Carry: Back.
+
+Edrin's Book: Worn arcane notes. Carry: Wrapped in cloth inside pack.
+
+Waterskin: Carry: Side of pack.
+
+Rations: Carry: Inside pack.
+
+Cloth Wrappings: Used for blade storage or bandaging. Carry: Pack.
+
+Small Knife: Carry: Boot or belt.
+
+Flint & Steel: Carry: Pack.
+
+Rope (10 ft): Carry: Coiled on pack.
+
+Coinage: 16 cp and 12 sp. Carry: Hidden pouch tied inside belt.
+
+Equipment Notes: a pouch for carrying components (improvised), small packet of plain dried-herb incense
+
+Pending Confirmation
+
+None at present.
+
+Version / Status Info
+
+Protocol Basis: Raven Protocol v5.2.0
+
+Generation Basis: Current uploaded character sheet, Arcane Techniques file, equipment sheet, user-confirmed wording distinction, and resolved spell/tradition clarifications
+
+HP Method: Class average by default under Rule 6.3
+
+Drain / Restoration Basis: Newest level removed first; restoration follows recorded level order
+
+Equipment Handling: Separate equipment sheet phased out; active equipment now lives on this character sheet
+
+Change: updated coinage
